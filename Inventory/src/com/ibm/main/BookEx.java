@@ -54,6 +54,7 @@ public class BookEx {
         for(Book s : books)
         {
             System.out.println(s.getTitle());
+            System.out.println(s.getPrice());
         }
     }
 }
