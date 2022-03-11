@@ -49,7 +49,7 @@ public class BookEx {
     }
     public static void main(String[] args) 
     {
-        List<Book> books = readBooksFromFile("D:\\books.txt");
+        List<Book> books = readBooksFromFile("D:\\Github\\JavaPractice\\Inventory\\src\\com\\ibm\\main\\books.txt");
 
         for(Book s : books)
         {
