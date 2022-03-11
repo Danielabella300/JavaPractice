@@ -1,5 +1,10 @@
-package com.ibm.Inventory;
-import java.util.Date;    
+package com.ibm.main;
+import java.util.Date;
+
+import com.ibm.Inventory.Artist;
+import com.ibm.Inventory.Book;
+import com.ibm.Inventory.CD;
+import com.ibm.Inventory.Item;    
                                                               
 
 public class Main {

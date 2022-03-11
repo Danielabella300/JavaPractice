@@ -1,8 +1,10 @@
-package com.ibm.Inventory;
+package com.ibm.main;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.io.LineNumberReader;
 import java.util.*;
+
+import com.ibm.Inventory.Book;
 
 
 public class BookEx {
@@ -32,7 +34,7 @@ public class BookEx {
                 
                 double price = Double.parseDouble(line);
 
-                Book t = new Book(title, price, 1, "author", "A", "Sci-fi");
+                Book t = new Book(title, price, 1, author, "A", "Sci-fi");
 
                 books.add(t);
             }
