@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch JoinDemo",
+            "request": "launch",
+            "mainClass": "com.ibm.Practice.Udemy.MultiThread.JoinDemo",
+            "projectName": "Practice_a2d4db19"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiThreaded",
+            "request": "launch",
+            "mainClass": "com.ibm.Practice.Udemy.MultiThread.MultiThreaded",
+            "projectName": "Practice_a2d4db19"
+        },
+        {
+            "type": "java",
+            "name": "Launch SynchroDemo",
+            "request": "launch",
+            "mainClass": "com.ibm.Practice.Udemy.MultiThread.SynchroDemo",
+            "projectName": "Practice_a2d4db19"
+        },
+        {
+            "type": "java",
+            "name": "Launch jdkTest",
+            "request": "launch",
+            "mainClass": "com.ibm.Practice.Udemy.jdkTest",
+            "projectName": "Practice_a2d4db19"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListDemo",
+            "request": "launch",
+            "mainClass": "com.ibm.Practice.Udemy.list.ArrayListDemo",
+            "projectName": "Practice_a2d4db19"
+        },
+        {
+            "type": "java",
+            "name": "Launch electricBillDriver",
+            "request": "launch",
+            "mainClass": "com.ibm.Practice.Udemy.objClass.electricBillDriver",
+            "projectName": "Practice_a2d4db19"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadGroupDemo",
+            "request": "launch",
+            "mainClass": "com.ibm.Practice.Udemy.threadgroups.ThreadGroupDemo",
+            "projectName": "Practice_a2d4db19"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadGroupMethods",
+            "request": "launch",
+            "mainClass": "com.ibm.Practice.Udemy.threadgroups.ThreadGroupMethods",
+            "projectName": "Practice_a2d4db19"
+        },
+        {
+            "type": "java",
+            "name": "Launch touchScreenmethod",
+            "request": "launch",
+            "mainClass": "com.ibm.Practice.Udemy.touchScreenmethod",
+            "projectName": "Practice_a2d4db19"
+        },
+        {
+            "type": "java",
+            "name": "Launch udemy",
+            "request": "launch",
+            "mainClass": "com.ibm.Practice.Udemy.udemy",
+            "projectName": "Practice_a2d4db19"
+        },
+        {
+            "type": "java",
+            "name": "Launch maxSubArray",
+            "request": "launch",
+            "mainClass": "com.ibm.Practice.leetCode.maxSubArray",
+            "projectName": "Practice_a2d4db19"
+        }
+    ]
+}

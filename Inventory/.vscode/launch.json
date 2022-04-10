@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArtistExerciser",
+            "request": "launch",
+            "mainClass": "com.ibm.main.ArtistExerciser",
+            "projectName": "Inventory_645ffb3e"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
